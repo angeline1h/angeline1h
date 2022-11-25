@@ -1,6 +1,6 @@
 # sobre mim
 - 👋 ola meu nome é @angeline
-- me email de contato angeline.cavalheiro@escola.pr.gov.br
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- meu email de contato angeline.cavalheiro@escola.pr.gov.br
+- 🌱 eu estou interessada em aprender
+- 💞
 - 📫 How to reach me ...
